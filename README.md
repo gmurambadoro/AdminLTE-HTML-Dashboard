@@ -20,3 +20,5 @@ Navigate to http://localhost:36888 in your browser.
 
 Happy coding! 🎉
 
+![Screenshot](screenshot.png)
+
